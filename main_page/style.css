@@ -1,15 +1,10 @@
-#h1-header {
-    margin: 0;
-    text-align: left;
-}
+/* 
+F1DFDF light pink
+C28F9E medium pink
+926270 dark pink
+*/
 
-.navbar {
+#header-img {
     width: 100%;
-    height: 120px;
-    margin-bottom: 15px;
-    background-color: #ccc;
+    height: 15%;
 }
-
-
-/* MEDIA QUERIES */
-
