@@ -2,9 +2,23 @@
 F1DFDF light pink
 C28F9E medium pink
 926270 dark pink
+FFDCE2 pink??
 */
 
+body {
+    background-color: #FFDCE2;
+    margin: 0;
+}
+
 #header-img {
-    width: 100%;
+    width: 50%;
     height: auto;
+}    
+
+hr.solid {
+    border-top: 15px solid #C28F9E;
+}
+
+#profile {
+    float: left;
 }
