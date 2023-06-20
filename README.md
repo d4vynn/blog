@@ -1,2 +1,1 @@
-
-Practice blog for web development
+#Personal blog 
