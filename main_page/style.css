@@ -15,7 +15,7 @@ body {
 
 #header-img {
     width: 100%;
-    margin-bottom: 0px;
+    height: auto;
 
 }    
 
@@ -23,17 +23,31 @@ h2 {
     font-family: monospace;
     color: #926270;
     padding: 10px;
+    text-align: center;
 }
 
 ul {
     border-bottom: 1px solid #C28F9E;
+    text-align: left;
+    margin: 5px;
+    padding: 0;
+    color: #C28F9E;
 }
 
 hr.solid {
     margin: 0px;
-    border-top: 30px solid #926270;
+    border-top: 45px solid #F1DFDF;
 }
 
 #browser-img {
-    align-content: center;
+    display: block;
+    width: 150%;
+}
+
+#email-button {
+    background-color: #C28F9E;
+    border: none;
+    color: #F1DFDF;
+    font-size: 1.2em;
+
 }
