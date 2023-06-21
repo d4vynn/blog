@@ -8,7 +8,7 @@ FFDCE2 pink??
 */
 
 body {
-    background-color: #fff;
+    background-color: #000000;
     margin: 0;
     font-family: 'PT Serif', serif;
     font-size: 18px;
@@ -22,27 +22,27 @@ body {
 
 .headings {
     font-family: monospace;
-    color: #7a8eac;
+    color: #9e7e63;
     padding: 10px;
     text-align: center;
 }
 
 ul {
-    border-bottom: 1px solid #C28F9E;
+    border-bottom: 1px solid #684d37;
     text-align: left;
     margin: 20px;
     padding: 0px;
-    color: #C28F9E;
+    color: #e2d4be;
 
 }
 
 .body-border {
-    border-right: 1px solid #C28F9E;
+    border-right: 1px solid #e2d4be;
 }
 
 hr.solid {
     margin: 0px;
-    border-top: 45px solid #e6cfe9;
+    border-top: 30px double #9e7e63;
 }
 
 .manga {
@@ -50,13 +50,13 @@ hr.solid {
     margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 5px 5px 5px 0px;
+    border: 1px solid #9e7e63;
 }
 
 #email-button {
-    background-color: #C28F9E;
+    background-color: #684d37;
     border: none;
-    color: #F1DFDF;
+    color: #e2d4be;
     font-size: 1.2em;
 
 }
@@ -64,6 +64,8 @@ hr.solid {
 #statue {
     width: 100%;
     margin: auto;
+
+    border: 1px solid #e2d4be;
 }
 
 #pookie {
@@ -74,7 +76,7 @@ hr.solid {
 
 #song {
     margin: 25px;
-    color: #C28F9E;
+    color: #ffffff;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.5em;
 
