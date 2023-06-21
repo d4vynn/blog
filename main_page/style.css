@@ -3,7 +3,8 @@ F1DFDF light pink
 C28F9E medium pink
 926270 dark pink
 FFDCE2 pink??
-2b2d6 pretty lilac
+6cfe9 purple
+7a8eac blue
 */
 
 body {
@@ -11,18 +12,17 @@ body {
     margin: 0;
     font-family: 'PT Serif', serif;
     font-size: 18px;
-    color: #C28F9E;
 }
 
 #header-img {
     width: 100%;
-    height: auto;
+    height: 80%;
 
 }    
 
-h2 {
+.headings {
     font-family: monospace;
-    color: #926270;
+    color: #7a8eac;
     padding: 10px;
     text-align: center;
 }
@@ -42,13 +42,14 @@ ul {
 
 hr.solid {
     margin: 0px;
-    border-top: 45px solid #d2b2d6;
+    border-top: 45px solid #e6cfe9;
 }
 
-#manga {
-    width: auto;
-    height: auto;
-    margin-top: 10px;
+.manga {
+    width: 80%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
     box-shadow: 5px 5px 5px 0px;
 }
 
@@ -62,16 +63,17 @@ hr.solid {
 
 #statue {
     width: 100%;
-    height: auto;
+    margin: auto;
 }
 
 #pookie {
-    width: 50%;
-    margin: 25px;
+    width: 75%;
+    margin: 30px;
+
 }
 
 #song {
-    margin: 30px;
+    margin: 25px;
     color: #C28F9E;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.5em;
@@ -81,4 +83,5 @@ hr.solid {
 #reflections {
     margin-top: 20px;
 }
+
 
