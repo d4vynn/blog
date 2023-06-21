@@ -6,19 +6,34 @@ FFDCE2 pink??
 */
 
 body {
-    background-color: #FFDCE2;
+    background-color: #fff;
     margin: 0;
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+    color: #C28F9E;
 }
 
 #header-img {
-    width: 50%;
-    height: auto;
+    width: 100%;
+    margin-bottom: 0px;
+
 }    
 
-hr.solid {
-    border-top: 15px solid #C28F9E;
+h2 {
+    font-family: monospace;
+    color: #926270;
+    padding: 10px;
 }
 
-#profile {
-    float: left;
+ul {
+    border-bottom: 1px solid #C28F9E;
+}
+
+hr.solid {
+    margin: 0px;
+    border-top: 30px solid #926270;
+}
+
+#browser-img {
+    align-content: center;
 }
