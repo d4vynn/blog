@@ -45,7 +45,10 @@ hr.solid {
 }
 
 #manga {
-    width: 100%;
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px 0px;
 }
 
 #email-button {
@@ -59,5 +62,10 @@ hr.solid {
 #statue {
     width: 100%;
     height: auto;
+}
+
+#pookie {
+    width: 50%;
+    margin: 25px;
 }
 
