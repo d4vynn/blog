@@ -29,9 +29,14 @@ h2 {
 ul {
     border-bottom: 1px solid #C28F9E;
     text-align: left;
-    margin: 5px;
-    padding: 0;
+    margin: 10px;
+    padding: 0px;
     color: #C28F9E;
+
+}
+
+.body-border {
+    border-right: 1px solid #C28F9E;
 }
 
 hr.solid {
@@ -39,9 +44,8 @@ hr.solid {
     border-top: 45px solid #F1DFDF;
 }
 
-#browser-img {
-    display: block;
-    width: 150%;
+#manga {
+    width: 100%;
 }
 
 #email-button {
@@ -51,3 +55,9 @@ hr.solid {
     font-size: 1.2em;
 
 }
+
+#statue {
+    width: 100%;
+    height: auto;
+}
+
