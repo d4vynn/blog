@@ -1,13 +1,9 @@
 body {
     background-color: #1d1813;
-    font-size: 18px;
+    font-size: 1.5em;
+    margin: 10%;
 }
-
-#header-img {
-    width: 100%;
-
-}    
-
+  
 .headings {
     font-family: monospace;
     color: #9e7e63;
@@ -19,8 +15,8 @@ body {
 ul {
     border-bottom: 1px solid #684d37;
     text-align: left;
-    margin: 20px;
-    padding: 0px;
+    margin: 30px;
+    padding: 5px;
     color: #e2d4be;
 
 }
@@ -31,12 +27,12 @@ ul {
 
 hr.solid {
     margin: 0px;
-    border-top: 15px solid #9e7e63;
+    border-top: 10px solid #9e7e63;
     margin-bottom: 20px;
 }
 
 .manga {
-    width: 80%;
+    width: 100%;
     border: 1px solid #9e7e63;
     margin-bottom: 15px;
 }
@@ -48,12 +44,12 @@ hr.solid {
     font-size: 1.2em;
 }
 
-.poem {
+#poem {
   width: auto;
-  text-align: left;
+  text-align: center;
   margin: auto;
-  background-color: #684d37;
   color: #e2d4be;
+  margin-bottom: 20px;
 }
 
 #statue {
@@ -70,12 +66,11 @@ hr.solid {
 }
 
 #song {
-    margin: 25px;
+    margin: 50px;
     color: #9e7e63;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.5em;
 }
-
 
 /* Simple Responsive Framework. */
 .row {
