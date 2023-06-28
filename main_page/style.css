@@ -1,16 +1,5 @@
-/* 
-F1DFDF light pink
-C28F9E medium pink
-926270 dark pink
-FFDCE2 pink??
-6cfe9 purple
-7a8eac blue
-*/
-
 body {
-    background-color: #000000;
-    margin: 0;
-    font-family: 'PT Serif', serif;
+    background-color: #1d1813;
     font-size: 18px;
 }
 
@@ -37,20 +26,19 @@ ul {
 }
 
 .body-border {
-    border-right: 1px solid #e2d4be;
+    border-right: 1px solid #9e7e63;
 }
 
 hr.solid {
     margin: 0px;
-    border-top: 30px double #9e7e63;
+    border-top: 15px solid #9e7e63;
+    margin-bottom: 20px;
 }
 
 .manga {
     width: 80%;
-    margin-top: 25px;
-    margin-left: auto;
-    margin-right: auto;
     border: 1px solid #9e7e63;
+    margin-bottom: 15px;
 }
 
 #email-button {
@@ -58,7 +46,14 @@ hr.solid {
     border: none;
     color: #e2d4be;
     font-size: 1.2em;
+}
 
+.poem {
+  width: auto;
+  text-align: left;
+  margin: auto;
+  background-color: #684d37;
+  color: #e2d4be;
 }
 
 #statue {
@@ -70,43 +65,16 @@ hr.solid {
 #pookie {
     width: 75%;
     margin: 30px;
+    border: 1px solid #684d37;
 
 }
 
 #song {
     margin: 25px;
-    color: #ffffff;
+    color: #9e7e63;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.5em;
-    flex-shrink: none;
 }
-
-#reflections {
-    margin-top: 20px;
-}
-
-
-.foot {
-    position: relative;
-    bottom: 0;
-    width: 100%;
-    height: 20%;
-    color: #684d37;
-}
-
-#girl {
-    width: 80%;
-    border: 1px double #9e7e63;
-}
-
-
-
-
-
-
-
-
-
 
 
 /* Simple Responsive Framework. */
