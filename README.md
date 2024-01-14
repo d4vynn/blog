@@ -6,6 +6,7 @@
 After graduating with my Bachelor's Degree, I intend to work full-time as a software engineer in Florida. I currently have a certificate in web development and am in the process of studying for CompTIA's CySa certification. Aside from programming, my hobbies include reading romance novels, writing, and dabbling in automotive photography. 
 
 
-With time, I hope to build a career that allows me to work on projects that allow me to express creativity, hone my skills in programming, and build relationships with fellow programmers. 
+With time, I hope to build a career that allows me to work on projects that allow me to express creativity, hone my skills in programming, and build relationships with other programmers.
+
 
 ─── ⋆⋅☆⋅⋆ ──
