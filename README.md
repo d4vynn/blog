@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=8280F7&vCenter=true&multiline=true&random=false&width=450&lines=%E2%95%B0%E2%94%80%E2%96%B8+%E2%9D%9D+%40d4vynn)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B84FF&random=false&width=435&lines=%E2%95%B0%E2%94%80%E2%96%B8+%E2%9D%9D+%40d4vynn)](https://git.io/typing-svg)
   <img align="right" alt="kuromi gif" width="400"  src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-654.gif">
   
 ─── ⋆⋅☆⋅⋆ ──
