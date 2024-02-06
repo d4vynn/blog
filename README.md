@@ -2,10 +2,11 @@
   
 ─── ⋆⋅☆⋅⋆ ──
 
-After graduating with my Bachelor's Degree, I intend to work full-time as a software engineer in Florida. I currently have a certificate in web development and am in the process of studying for CompTIA's CySa certification. Aside from programming, my hobbies include reading romance novels, writing, and dabbling in automotive photography. 
+Currently a student attending Valencia College and working toward my A.A. After graduating, I intend on pursuing a Bachelor's in Computer Science and work as a software engineer. With time, I hope to build a career that allows me to express creativity, cultivate work relationships, and work on projects that I find interesting. :)
 
-
-With time, I hope to build a career where I can work on projects that allow me to express creativity, hone my skills in programming, and build relationships with other programmers. 
+Programming Languages: 
+HTML, CSS, and Javascript
+Python
 
 
 ─── ⋆⋅☆⋅⋆ ──
